@@ -5,7 +5,7 @@ Python Developer
 ----------------
 
 * 🌍  I'm based in Stavropol
-* ✉️  You can contact me at [kirillmanzhura157@gmail.com](mailto:kirillmanzhura157@gmail.com)
+* ✉️  You can contact me at [kirillmanzhura157@gmail.com](mailto:kirillmanzhura157@gmail.com) or Telegram: @Ultraprikol
 * 🤝  I'm open to collaborating on Intresting projects
 
 ### Skills
